@@ -1,6 +1,5 @@
-package in.requres.steps.utilities;
+package in.requres.utilities;
 
-import in.requres.steps.RequestSpecs;
 import io.restassured.RestAssured;
 import io.restassured.config.MatcherConfig;
 import io.restassured.response.Response;

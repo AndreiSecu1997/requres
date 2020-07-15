@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = {"src/test/features"},
+@CucumberOptions(features = {"src\\test\\java\\in\\requres\\features"},
         plugin = {"json:target/cucumber-report/cucumber.json", "html:target/cucumber-html-report",})
 public class TestRunner {
 

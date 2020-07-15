@@ -1,6 +1,7 @@
 package in.requres.steps;
 
-import in.requres.steps.utilities.RequestsManager;
+import in.requres.utilities.RequestsManager;
+import in.requres.utilities.ScenarioContext;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

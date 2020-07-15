@@ -1,4 +1,4 @@
-package in.requres.steps;
+package in.requres.utilities;
 
 import lombok.Data;
 
